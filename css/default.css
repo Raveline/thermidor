@@ -1,0 +1,16 @@
+body{color:black;font-size:16px;margin:0px 0px 0px 100px;width:1200px; font-family:Helvetica;}
+div#header{border-bottom:2px solid black;margin-bottom:30px;padding:12px 0px 12px 0px}
+div#logo a{color:black;float:left;font-size:18px;font-weight:bold;text-decoration:none}
+div#header #navigation{text-align:right}
+div#header #navigation a{color:black;font-size:18px;font-weight:bold;margin-left:12px;text-decoration:none;text-transform:uppercase}
+div#footer{border-top:solid 2px black;color:#555;font-size:12px;margin-top:30px;padding:12px 0px 12px 0px;text-align:left;clear:both;}
+h1{font-size:32px}
+h2{font-size:28px}
+h2 a {text-decoration:none; color:#000;}
+div.info{color:#555;font-size:14px;font-style:italic}
+a { text-decoration:underline; color:#000;}
+ul { list-style-type:square; }
+ul li a { text-decoration:none;font-style:italic;}
+.lefty { width:60%; float: left;} 
+.lefty p { line-height: 1.6em; font-size:1.1em;font-family:Georgia;}
+.righty { width:20%; float: right;margin-bottom:30px;}
